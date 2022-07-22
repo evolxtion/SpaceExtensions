@@ -1,0 +1,17 @@
+/libs/*
+/config/*
+/out/*
+/eclipse/*
+/logs/*
+/mcdata/*
+/mods/*
+/src/main/resources/META-INF/*
+out/*
+build/*
+
+
+*.iml
+*.ipr
+*.iws
+*.txt
+
