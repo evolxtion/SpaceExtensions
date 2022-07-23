@@ -8,6 +8,8 @@
 /src/main/resources/META-INF/*
 out/*
 build/*
+.gradle/*
+.mixin.out/*
 
 
 *.iml
